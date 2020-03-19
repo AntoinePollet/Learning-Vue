@@ -1,0 +1,7 @@
+{
+    "hello": "bonjour",
+    "locales": {
+        "en": "anglais",
+        "fr": "français"
+    }
+}
